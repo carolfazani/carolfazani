@@ -35,7 +35,7 @@ I'm a Data Analyst with a Bachelor's degree in Public Policy Management from USP
 - Probability and Statistics
 - Storytelling
 
-👩 ### Let's Connect
+ ### Let's Connect 👩
 - Medium: https://medium.com/@carolfazani
 - Linkedin: https://www.linkedin.com/in/carolfazani/
 
