@@ -10,10 +10,10 @@ I'm a Data Analyst with a Bachelor's degree in Public Policy Management from USP
 - Python, R, SQL, DAX, PySpark
 - Matplotlib, Seaborn, Pandas, NumPy
 
-**Databases:**
+⚙️ **Databases:**
 - PostgreSQL, MariaDB, MySQL, SQL Server, DBeaver
 
-⚙️**Cloud Computing and Data Pipelines:**
+☁️ **Cloud Computing and Data Pipelines:**
 - Google Cloud Platform (Functions, BigQuery, Secret Manager, Cloud Storage, Pub/Sub, Cloud Scheduler)
 - AWS (Glue, Athena, Lambda, S3, ECS, Batch)
 - Databricks
@@ -35,8 +35,8 @@ I'm a Data Analyst with a Bachelor's degree in Public Policy Management from USP
 - Probability and Statistics
 - Storytelling
 
-### Let's Connect
+👩 ### Let's Connect
 - Medium: https://medium.com/@carolfazani
-- 📫 How to reach me: https://www.linkedin.com/in/carolfazani/
+- Linkedin: https://www.linkedin.com/in/carolfazani/
 
 
