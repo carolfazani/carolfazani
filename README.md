@@ -6,31 +6,31 @@ I'm a Data Analyst with a Bachelor's degree in Public Policy Management from USP
 
 
 ### Skills
-**Languages and Tools:**
+💻 **Languages and Tools:**
 - Python, R, SQL, DAX, PySpark
 - Matplotlib, Seaborn, Pandas, NumPy
 
 **Databases:**
 - PostgreSQL, MariaDB, MySQL, SQL Server, DBeaver
 
-**Cloud Computing and Data Pipelines:**
+⚙️**Cloud Computing and Data Pipelines:**
 - Google Cloud Platform (Functions, BigQuery, Secret Manager, Cloud Storage, Pub/Sub, Cloud Scheduler)
 - AWS (Glue, Athena, Lambda, S3, ECS, Batch)
 - Databricks
 
-**Data Visualization:**
+📊 **Data Visualization:**
 - Power BI, Apache Superset
 
-**Version Control:**
+🔄 **Version Control:**
 - Git (GitHub, Bitbucket)
 
-**Project Management Tools:**
+🔨 **Project Management Tools:**
 - Asana, Trello, ClickUp, Jira, Confluence, Notion, Miro
 
-**Data Collection:**
+🏫 **Data Collection:**
 - APIs, SSH connections, web scraping
 
-**Analysis and Communication:**
+🎲 **Analysis and Communication:**
 - Defining KPIs and indicators
 - Probability and Statistics
 - Storytelling
