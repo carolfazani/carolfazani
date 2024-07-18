@@ -1,4 +1,4 @@
-### To see my latest portfolio, visit the restaurant_data project. ✨
+### ✨ To see my latest portfolio, visit the restaurant_data project. ✨
 
 I'm a Data Analyst with a Bachelor's degree in Public Policy Management from USP - Universidade de São Paulo. I specialized in data-driven public policies and received three research scholarships in this area. I have a proven ability to identify and solve problems autonomously, always focusing on results.
 
